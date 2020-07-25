@@ -2,8 +2,11 @@
 Takes JSON data from Facebook Messenger and roughly inserts it into a Discord Channel.
 
 ## Requirements
+
 Python 3+ (This was written with a 3.8 environment)
+
 Discord API by Rapptz:
+
   https://github.com/Rapptz/discord.py
   
   https://discordpy.readthedocs.io/en/latest/index.html

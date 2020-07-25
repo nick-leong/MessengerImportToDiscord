@@ -14,9 +14,9 @@ Discord API by Rapptz:
 ## How to run
 Create constant.py file with following format:
 ```
-TOKEN=<YOUR_TOKEN_HERE>
-json_dir=<LOCATION_OF_MESSENGER_JSONS_HERE>
-mapping_location='MAPPING_OF_USERS_CSV_FILE'
+TOKEN='<YOUR_TOKEN_HERE>'
+json_dir='<LOCATION_OF_MESSENGER_JSONS_HERE>'
+mapping_location='<MAPPING_OF_USERS_CSV_FILE>'
 channel_id=<ID_OF_INSERT_TO_TEXT_CHANNEL>
 ```
 #### Note: The mapping location key is referring to a csv of the following format:
